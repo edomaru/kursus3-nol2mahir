@@ -13,7 +13,3 @@ Repositori Kursus **Vue 3 dari nol hingga mahir**
 - App Design: https://bitbucket.org/edomaru/toedoe-list-theme/src
 - API: https://github.com/edomaru/laravel-todo-api
 - Client App: https://bitbucket.org/edomaru/toedoe-list-client/src
-
-## SPA Advance features
-- API: https://github.com/tutsprime-online-education/laravel-todo-api-pro
-- Client App: https://github.com/tutsprime-online-education/todo-client-pro
